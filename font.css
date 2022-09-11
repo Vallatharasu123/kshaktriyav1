@@ -1,0 +1,23 @@
+@font-face {
+    font-family: font-a;
+    src: url("assets/fonts/Fonstars-4Bo0p.otf");
+}
+
+@font-face {
+    font-family: font-b;
+    src: url("assets/fonts/LoftygoalsRegular-9Y5Xy.otf");
+}
+
+@font-face {
+    font-family: font-c;
+    src: url("assets/fonts/AgreementSignature-qZX6x.ttf");
+}
+
+@font-face {
+    font-family: font-d;
+    src: url("assets/fonts/MangabeyRegular-rgqVO.otf");
+}
+@font-face {
+    font-family: font-e;
+    src: url("assets/fonts/warrior.otf");
+}
